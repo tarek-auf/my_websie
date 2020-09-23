@@ -6,6 +6,5 @@ GitHub Repo for my Netlify site
 **bold**
 
 
-Hello World! How are you this morning?
+Hello World! How are you this beautiful morning?
 
-I hope all good
